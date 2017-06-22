@@ -19,5 +19,10 @@ function mod_foot_ssp() {
   $gethtml = file_get_contents($url);
   echo $gethtml; //output the content in the page...but should I be putting this in wp_footer?
 
+?>
+<script>
+/* Google Analytics */
+</script>
+<?php
 }
 ?>
