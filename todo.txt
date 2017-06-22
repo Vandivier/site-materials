@@ -22,3 +22,36 @@ gender job satisfaction gap as a gender pay gap
 4 convert note cards to digital
 5 put notes on github
 
+book ideas
+1 - sword and shield
+  - an apologetics book
+  - first edition contains 3 args from 4 apologetic types
+  - focus on providing references to the myriad other arguments and sources
+  - types = J W Wallace's super-empirical style, WL Craig's Classical Theological Style (maybe Plantiga?), Sye's pressuppositional, and RCT style from Pascal + Me
+  - Maybe included, later edition, or other book = comparative religion apologetics (eg vs Islam, Mormonism, etc)
+  - Evangelical techniques
+  - maybe or nah = hermeneutics (moderate literalist hermeneutic)
+2 - A book on policy
+  - discuss left vs right, collectivism vs liberty
+  - proper conservatism
+  - libertarian vs anarchist vs polycentrism
+  - integrating Christianity
+  - a bit of history, perhaps even some conspiracyish stuff (don't trust big media because they're biased left, give data, etc)
+  - contemporary applications
+  - future trends, DIY libertarianism, political activism vs technological activism
+3 - technology and economics
+  - what should it be? just how to program models or something else/more?
+  - i want to touch on integrating Agile processes into unusual places
+  - also, process-oriented economics and business, modeling production and sales pipelines
+  - performance mgmt and optimization
+4 - A book on economics and education
+  - practical tips to learn anything more quickly
+  - practical tips to learn anything more cheaply
+  - "information dieting" - prioritization, determining what you want to learn and/or should, is valuable, etc
+  - a CBA in your own life: optimizing between learning well and cheaply
+  - trends and future outlook in education
+5 - a book on budgeting and personal finance
+  - budgeting walk through
+  - investment and debt mgmt: cash flow vs interest considerations
+  - technical analysis
+  - tools/software
