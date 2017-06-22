@@ -1,0 +1,24 @@
+todo
+- fix readme
+- merge bookmarks.csv and bookmarks-from-access.csv
+- commit other project working changes
+- make bookmark review applet
+- integrate bookmark review applet on WP and/or Firebase
+- more on nga app
+- get notes off phone
+- abm program
+ - stackshare for academia
+ - Project Brian
+
+
+brian paper idea:
+gender job satisfaction gap as a gender pay gap
+    - do women complain more, holding income constant?
+    - what's the proper solution? pay them more to satisfy or let them learn to complain less (market discipline or acquiesance)?
+
+1 download slade's notes
+2 organize other notes
+3 take practice exam
+4 convert note cards to digital
+5 put notes on github
+
