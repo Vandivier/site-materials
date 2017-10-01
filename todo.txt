@@ -5,7 +5,6 @@ todo
 - make bookmark review applet
 - integrate bookmark review applet on WP and/or Firebase
 - more on nga app
-- get notes off phone
 - abm program
  - stackshare for academia
  - Project Brian
