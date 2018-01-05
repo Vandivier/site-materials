@@ -1,0 +1,32 @@
+Lesson 1: Intro to Developing
+  -1- Target audience: noobs young and old
+  0 - What will we do? High level
+      - Teach you how to code
+      - Teach you how to build a portfolio
+      - Teach you how to get a job based on your portfolio (aka Recruiters)
+      - Teach you how to continue learning & growing on your own
+  1 - Start Web + Why
+      - Everyone wants web (HTML5, CSS3, ES5+).
+        - If you start elsewhere (Java, Python) you have to learn this anyway.
+        - Lots of jobs, which is the goal
+      - Quick feedback loop
+      - Minimal setup needed
+      - Easier to learn web and go back end then the other way around
+  2 - Dev tools (and classes and accounts)
+    - Brackets
+      - and plugins
+      - review collab tool? or maybe next time
+    - Git + Tortoise
+    - console emu
+    - Built a portfolio: GitHub, Stack Overflow, Your own website
+  3 - Classes
+    - Codecademy, Code School, Plural Sight
+
+1 - Everyone wants web technologies: The market is largest for these programming technologies. If you want to get your foot in the door programming, having a large number of opportunities will improve your chances.
+2 - Because the community and market for web technologies is so large, lots of great tools have been created, lots of current documentation exists, and lots of really great courses are available online free or cheap.
+3 - Quick feedback means it's easy to learn
+4 - Minimal setup means it's easy to get started
+5 - JavaScript, the primary web technology, can be used as a client-side and a server-side language.
+  That means you can advance in your career more quickly, because Senior developers these days are expected to be able to work on the server side and the client side.
+  With other languages like Java or Python, you won't be able take advantage of this. In fact, Senior developers in these other languages often end up having to learn web technologies on the front end anyway.
+
