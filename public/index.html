@@ -1,20 +1,73 @@
-<div class="external-body">
-  <link
-    rel="stylesheet"
-    type="text/css"
-    href="//cdn.datatables.net/1.10.7/css/jquery.dataTables.min.css"
-  />
-  <link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css"
-  />
+<!--
+  Using Head, Footer and Post Injections
+  Insert the content of this file into `<HEAD> PAGE SECTION INJECTION > ON EVERY PAGE`
+-->
 
-  <style>
-    a:hover {
-      text-decoration: underline;
-    }
+<!-- Google Tag Manager -->
+<script>
+  (function (w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != "dataLayer" ? "&l=" + l : "";
+    j.async = true;
+    j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, "script", "dataLayer", "GTM-5BQHFK9");
+</script>
 
-    /*
+<!-- Google Tag Manager (noscript) -->
+<noscript
+  ><iframe
+    src="https://www.googletagmanager.com/ns.html?id=GTM-5BQHFK9"
+    height="0"
+    width="0"
+    style="display: none; visibility: hidden;"
+  ></iframe
+></noscript>
+
+<!-- Google Analytics -->
+<script>
+  (function (i, s, o, g, r, a, m) {
+    i["GoogleAnalyticsObject"] = r;
+    (i[r] =
+      i[r] ||
+      function () {
+        (i[r].q = i[r].q || []).push(arguments);
+      }),
+      (i[r].l = 1 * new Date());
+    (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m);
+  })(
+    window,
+    document,
+    "script",
+    "//www.google-analytics.com/analytics.js",
+    "ga"
+  );
+  ga("create", "UA-13210645-4", "auto");
+  ga("send", "pageview");
+</script>
+
+<link
+  rel="stylesheet"
+  type="text/css"
+  href="//cdn.datatables.net/1.10.7/css/jquery.dataTables.min.css"
+/>
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css"
+/>
+
+<style>
+  a:hover {
+    text-decoration: underline;
+  }
+
+  /*
     .fadeimg {
       opacity: 0.7;
     }
@@ -27,17 +80,13 @@
       max-width: 75%;
     }
 */
-  </style>
+</style>
 
-  <!-- vendor -->
-  <!-- <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
-  <script src="//cdn.datatables.net/1.10.7/js/jquery.dataTables.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.3/handlebars.js"></script> -->
-  <script src="http://www.afterecon.com/wp-content/plugins/jv_afterecon_ssp_v1_150324/list.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.js"></script>
-
-  <!-- own scripts -->
-  <!-- ref: https://stackoverflow.com/a/16262293/3931488 -->
-  <script src="https://cdn.rawgit.com/Vandivier/site-materials/master/public/main.js"></script>
-</div>
+<script
+  async
+  src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.js"
+></script>
+<script
+  async
+  src="https://cdn.rawgit.com/Vandivier/site-materials/master/public/main.js"
+></script>
